@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Port';
+  src: url('./fonts/Colombia-Rp0DV.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sriracha';
+  src: url('./fonts/Sriracha-Regular.ttf') format('truetype'); 
+}
+
+* {
+    font-family: Port;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
