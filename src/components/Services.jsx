@@ -22,7 +22,7 @@ const Services = () => {
         <div className="hero-content mt-[20vh] text-center text-neutral-content">
           <div className="flex flex-col items-center justify-center">
             <h1 className="mb-5 text-8xl font-bold">
-              CAR DETAILING BALTIMORE, MD
+              CAR DETAILING MARYLAND
             </h1>
             <p className="mb-5 text-6xl">
               RideRevival's Car Detailing Packages
