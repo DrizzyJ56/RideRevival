@@ -4,13 +4,12 @@ frontend:
     preBuild:
       commands:
         - npm ci
-        - npm run build
     build:
       commands:
-        - npm run preview
+        - npm run build
   artifacts:
     # IMPORTANT - Please verify your build output directory
-    baseDirectory: /
+    baseDirectory: /build
     files:
       - '**/*'
   cache:
