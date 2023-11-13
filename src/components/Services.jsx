@@ -78,31 +78,31 @@ const Services = () => {
               Full Paint Correction Package
             </h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Wash & Rinse: Entire Exterior
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Iron Decontamination & Clay Bar Paint
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Wheel & Tire Wash, Detail & Dress with Tire Shine
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 1st Stage: Medium/Heavy Compound Buff
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 2nd Stage: High Speed Polish
               </p>
@@ -129,25 +129,25 @@ const Services = () => {
           <div className="card-body">
             <h2 className="card-title text-2xl">Paint Enhancement Package</h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Wash & Rinse: Entire Exterior
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Iron Decontamination & Clay Bar Paint
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Wheel & Tire Wash, Detail & Dress with Tire Shine
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Single Stage High-Speed Polish
               </p>
@@ -175,13 +175,13 @@ const Services = () => {
           <div className="card-body">
             <h2 className="card-title text-2xl">Engine Bay Package</h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Wash Brush and Dry Engine Bay
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Protectant Applied to Plastics
               </p>
@@ -217,19 +217,19 @@ const Services = () => {
           <div className="card-body">
             <h2 className="card-title text-2xl">Basic Exterior Package</h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Wash, Rinse & Dry: Entire Exterior
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Wheel & Tire Wash, Detail & Dress with Tire Shine
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Spray Sealant Applied to Paint
               </p>
@@ -262,19 +262,19 @@ const Services = () => {
           <div className="card-body">
             <h2 className="card-title text-2xl">Basic Interior Package</h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Vacuum: Carpet & Seats
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Thoroughly Clean: Dashboard, Cup Holders, Vents, Door Panels & Jams
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Interior Glass Cleaning
               </p>
@@ -307,25 +307,25 @@ const Services = () => {
           <div className="card-body">
             <h2 className="card-title text-2xl">Full Interior Package</h2>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Everything in Basic Interior Package
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Deep Extraction: Carpets, Floor Mats, Seats
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Dress with Conditioner: Leather Seats
               </p>
             </div>
             <div className="flex">
-              <img src={bulletPoint} className="w-[0.5vw]" />
+              <img src={bulletPoint} className="w-2" />
               <p className="font-extrabold text-xl ml-[1vw]">
                 Dress with UV Protectant: Dashboard, Consoles, Door Panels, Door Sills
               </p>
