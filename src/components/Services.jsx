@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import {
   bulletPoint,
   ceramicCoated1,
@@ -36,12 +37,12 @@ const Services = () => {
       </div>
       <div className="relative min-w-screen flex flex-col items-center justify-center text-center">
         <h4 className="text-5xl font-extrabold mt-[5vh]">
-          RideRevival in Baltimore, MD - Your Destination for Premium Car
+          RideRevival in Maryland - Your Destination for Premium Car
           Detailing Services
         </h4>
         <p className="ml-[8vw] mr-[8vw] mt-[3vh] text-2xl">
           If you've been on the hunt for the finest car detailing services in
-          Baltimore, you've arrived at the perfect spot. RideRevival is your
+          Maryland, you've arrived at the perfect spot. RideRevival is your
           go-to mobile detailing expert, poised to rejuvenate your vehicle to
           perfection! Our assortment of car detailing packages ensures that your
           cherished car not only looks its absolute best but also feels
@@ -49,7 +50,7 @@ const Services = () => {
           your doorstep.
         </p>
         <p className="ml-[8vw] mr-[8vw] mt-[3vh] text-2xl">
-          At RideRevival in Baltimore, we present an array of options, starting
+          At RideRevival in Maryland, we present an array of options, starting
           from our basic interior cleaning and extending all the way to our
           comprehensive paint correction package, complete with a SystemX
           Professional Ceramic Coating add-on. All package details are outlined
@@ -58,7 +59,7 @@ const Services = () => {
           Coating, the ultimate in paint protection. SystemX Professional
           Ceramic Coating stands as the uncontested industry leader in nano
           ceramic paint protection, ensuring unparalleled shield and longevity.
-          Especially in Baltimore's varied climate, traditional wax simply won't
+          Especially in Maryland's varied climate, traditional wax simply won't
           suffice. With the region's heat and other demanding elements, wax
           can't endure and safeguard your paint as effectively as needed.
           Discover our SystemX Professional Ceramic Coating Packages here and

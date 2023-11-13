@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { paint, vacuum } from "../assets";
 import Hero from "./Hero";
 import { Link } from "react-router-dom";
@@ -29,11 +30,11 @@ const Home = () => {
         </div>
         <div className="flex-col">
           <h5 className="text-5xl font-extrabold">
-            Ceramic Coating, Detailing, Paint Protection Services Baltimore, MD
+            Ceramic Coating, Detailing, Paint Protection Services Maryland
           </h5>
           <p className="ml-[8vw] w-5/6 text-2xl">
             We are your trusted auto detailing, paint protection and paint
-            correction specialists. Serving Baltimore County and the surrounding
+            correction specialists. Serving Maryland and the surrounding
             areas, RideRevival Auto Detailing has the experience to get the job
             done right. We guarantee quality in all of our work and you’ll be
             able to see that with our results. Check out more about our services
@@ -62,8 +63,7 @@ const Home = () => {
                 </h6>
               </div>
               <p className="text-2xl">
-                If you've been looking for top-tier auto detailing in Baltimore,
-                MD you're in the right place. Trust RideRevival Auto Detailing,
+                If you've been looking for top-tier auto detailing in Maryland you're in the right place. Trust RideRevival Auto Detailing,
                 your certified expert, to refresh your vehicle. We offer various
                 detailing packages for a fantastic look and feel to your ride.
               </p>
@@ -78,7 +78,7 @@ const Home = () => {
           <p className="text-3xl mt-[2vh]">
             If you’re looking for local car detailing, learn more about
             RideRevival's professional ceramic car coating and car detailing in
-            Baltimore, MD.
+            Maryland.
           </p>
           <Link to="/services">
             <button className="btn btn-info text-white text-xl font-extrabold mt-[2vh] mb-[10vh]">

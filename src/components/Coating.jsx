@@ -1,5 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
 import { dropdown, coating, systemX } from "../assets";
-import CeramicProducts from "./AllProducts";
 import { Link } from "react-router-dom";
 
 const Coating = () => {
@@ -15,7 +15,7 @@ const Coating = () => {
         <div className="hero-content mt-[20vh] text-center text-neutral-content">
           <div className="flex flex-col items-center justify-center">
             <h1 className="mb-5 text-8xl font-bold">
-              CERAMIC CAR COATING BALTIMORE, MD
+              CERAMIC CAR COATING MARYLAND
             </h1>
             <p className="mb-5 text-6xl">SystemX Ceramic Coating Installers</p>
             <button className="btn btn-info text-white text-xl">Get Started</button>
@@ -29,7 +29,7 @@ const Coating = () => {
         <p className="ml-[8vw] mr-[8vw] mt-[3vh] text-2xl">
           At RideRevival, we bring you the pinnacle of automotive care. Our
           partnership with SystemX ensures that you experience the finest
-          ceramic car coating available in Baltimore. In the ever-evolving realm
+          ceramic car coating available in Maryland. In the ever-evolving realm
           of paint protection, we've committed ourselves to lead the charge in
           innovation. Witnessing the astounding capabilities of System X
           nano-ceramic coating left us in awe, and we're confident you'll share
@@ -56,9 +56,9 @@ const Coating = () => {
           
           <p className="ml-[8vw] mr-[8vw] mt-[3vh] text-2xl"> System X doesn't just make your
           car look exceptional; it simplifies maintenance. Living in the
-          Baltimore area, where keeping your vehicle clean and safeguarded from
+          Maryland area, where keeping your vehicle clean and safeguarded from
           the elements can be a challenge, we understand your needs. There's no
-          superior solution for safeguarding your vehicle from Baltimore's
+          superior solution for safeguarding your vehicle from Maryland's
           diverse conditions. Explore our diverse packages, including the
           Platinum Package, Gold Package, and Sport Package, each tailored to
           provide distinct levels of paint protection for various aspects of
