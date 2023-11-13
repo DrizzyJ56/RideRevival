@@ -57,7 +57,7 @@ const Navbar = () => {
               ></path>
             </svg>
             {toggle && (
-              <ul className="flex flex-col justify-center items-center ml-36 mt-8 menu bg-base-200 min-w-[10vw] rounded-box text-xl font-extrabold">
+              <ul className="flex flex-col justify-center items-center ml-[5rem] mt-8 menu bg-base-200 w-[10rem] rounded-box text-xl font-extrabold">
                 <li>
                   <Link to="/">Home</Link>
                 </li>

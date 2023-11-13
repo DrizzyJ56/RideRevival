@@ -57,7 +57,7 @@ const Footer = () => {
             href="https://www.instagram.com/riderevival/"
             rel="noreferrer"
           >
-            <img src={instagram} className="w-8" />
+            <img src={instagram} className="w-8 xs:w-4 sm:w-4" />
           </a>
           <a>
             <svg

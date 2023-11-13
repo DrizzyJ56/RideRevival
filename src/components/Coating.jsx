@@ -23,7 +23,7 @@ const Coating = () => {
           </div>
         </div>
       </div>
-      <div className="relative min-w-screen flex flex-col items-center justify-center">
+      <div className="relative min-w-screen flex flex-col items-center justify-center text-center">
         <img src={systemX} className="w-full" />
         <h5 className="text-7xl mt-[4vh] font-extrabold">Ceramic Car Coating by SystemX</h5>
         <p className="ml-[8vw] mr-[8vw] mt-[3vh] text-2xl">
@@ -66,7 +66,7 @@ const Coating = () => {
           RideRevival can transform your automotive experience.
         </p>
       </div>
-      <div className="flex flex-col justify-center items-center mt-[5vh] mb-[6vh]">
+      <div className="flex flex-col justify-center items-center mt-[5vh] mb-[6vh] text-center">
         <h4 className="text-5xl font-extrabold">Ceram<span className="underline underline-offset-[2vh]">ic Coat A</span>dd-On.</h4>
         <p className="py-[3vh] text-2xl">Add a Ceramic Coat package to any of our services here!</p>
         <Link to="/services"><button className="btn btn-info text-xl text-white">Services</button></Link>
