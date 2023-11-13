@@ -1,7 +1,7 @@
 // import React, { useState } from "react";
 // import { Link } from "react-router-dom";
 
-import { Corvette, blackOverlay, logo2 } from "../assets";
+import { Corvette, logo2 } from "../assets";
 
 const Hero = () => {
   //   const [active, setActive] = useState("");
@@ -19,7 +19,7 @@ const Hero = () => {
             <h1 className="text-[10vh] font-extrabold">Auto Detailing!</h1>
             <p className="mb-[5vh] text-4xl">
               Premium Car Ceramic Coating, Auto Detailing & Paint Protection
-              Specialists In Baltimore, MD
+              Specialists In Maryland
             </p>
             <button className="btn btn-info text-xl text-white">
               Get Started
