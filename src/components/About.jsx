@@ -9,7 +9,7 @@ const About = () => {
           <span className="underline underline-offset-[2vh]">Revival Fou</span>
           nder
         </h3>
-        <p className="text-4xl ml-24 mr-24 mt-16 mb-8 sm:text-2xl xs:text-2xl sm:ml-12 xs:ml-12">
+        <p className="text-4xl ml-24 mr-24 mt-16 mb-8 sm:text-2xl xs:text-2xl">
           I launched Ride Revival in 2023 after years of detailing as a hobby.
           My first car was a Mustang that was rough around the edges. I spent
           countless hours trying to perfect that car from the moment it got
