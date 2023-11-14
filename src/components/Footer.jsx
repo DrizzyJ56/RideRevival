@@ -10,8 +10,8 @@ const Footer = () => {
         <div className="flex">
           <div className="flex flex-col mr-[0.8vw]">
             <img src={locationIcon} className="w-[1.5vw]" />
-            <img src={phoneIcon} className="w-[1.5vw] xs:w-2 sm:w-2 pt-[1vh]" />
-            <img src={emailIcon} className="w-[1.5vw] xs:w-2 sm:w-2 pt-[1vh] xs:pt-2 sm:pt-2" />
+            <img src={phoneIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-8 sm:pt-8" />
+            <img src={emailIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-8 sm:pt-8" />
           </div>
           <div className="flex flex-col">
             <p className="text-xl">Baltimore, MD</p>
