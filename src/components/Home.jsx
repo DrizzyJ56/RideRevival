@@ -43,7 +43,7 @@ const Home = () => {
           <div className="mt-12 flex items-center justify-center">
             <div className="w-[30rem]">
               <div className="flex">
-                <img src={paint} className="w-12 sm:w-4 sm:h-8 xs:h-8 sm:mt-4 xs:mt-4 xs:w-4 mr-8 xs:mr-2 sm:mr-2" />
+                <img src={paint} className="w-12 sm:w-4 sm:h-8 xs:h-8 sm:mt-8 xs:mt-8 xs:w-4 mr-8 xs:mr-1 sm:mr-1" />
                 <h6 className="font-extrabold text-4xl">
                   SystemX Ceramic Paint Protection
                 </h6>
@@ -57,7 +57,7 @@ const Home = () => {
             </div>
             <div className="w-[30rem]">
               <div className="flex">
-                <img src={vacuum} className="w-12 sm:w-4 sm:h-8 xs:h-8 sm:mt-4 xs:mt-4 xs:w-4 mr-8 xs:mr-2 sm:mr-2" />
+                <img src={vacuum} className="w-12 sm:w-4 sm:h-8 xs:h-8 sm:mt-8 xs:mt-8 xs:w-4 mr-8 xs:mr-1 sm:mr-1" />
                 <h6 className="font-extrabold text-4xl">
                   Premium Auto Detailing Services
                 </h6>
