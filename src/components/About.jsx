@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="min-h-screen bg-black text-slate-300">
       <div className="relative flex flex-col text-center justify-center items-center pt-40 sm:pt-28 xs:pt-28">
-        <h3 className="text-8xl sm:text-4xl xs:text-4xl font-bold">
+        <h3 className="text-8xl font-bold">
           Ride
           <span className="underline underline-offset-[2vh]">Revival Fou</span>
           nder
