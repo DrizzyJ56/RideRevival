@@ -45,7 +45,7 @@ const Footer = () => {
             target="_blank"
             href="https://www.instagram.com/riderevival/"
             rel="noreferrer"
-            className="ml-[2.2rem] xs:ml-[2rem] sm:ml-[2rem]"
+            className="ml-[2.2rem] xs:ml-1 sm:ml-1"
           >
             <img src={instagram} className="w-8 xs:w-4 sm:w-4" />
           </a>
