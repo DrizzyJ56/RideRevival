@@ -41,9 +41,9 @@ const Home = () => {
             on our website and contact us for pricing!
           </p>
           <div className="mt-12 flex items-center justify-center">
-            <div className="w-[30rem] h-fit">
+            <div className="w-[30rem]">
               <div className="flex">
-                <img src={paint} className="w-12 sm:w-2 xs:w-2 mr-8 xs:mr-2 sm:mr-2" />
+                <img src={paint} className="w-12 sm:w-8 sm:h-12 xs:h-12 sm:mt-4 xs:mt-4 xs:w-8 mr-8 xs:mr-2 sm:mr-2" />
                 <h6 className="font-extrabold text-4xl">
                   SystemX Ceramic Paint Protection
                 </h6>
@@ -55,9 +55,9 @@ const Home = () => {
                 droppings, bugs, dirt, and tar from causing damage.
               </p>
             </div>
-            <div className="ml-[2vw] w-[30rem] h-fit">
+            <div className="w-[30rem]">
               <div className="flex">
-                <img src={vacuum} className="w-12 sm:w-2 xs:w-2 mr-8 xs:mr-2 sm:mr-2" />
+                <img src={vacuum} className="w-12 sm:w-8 sm:h-12 xs:h-12 sm:mt-4 xs:mt-4 xs:w-8 mr-8 xs:mr-2 sm:mr-2" />
                 <h6 className="font-extrabold text-4xl">
                   Premium Auto Detailing Services
                 </h6>
