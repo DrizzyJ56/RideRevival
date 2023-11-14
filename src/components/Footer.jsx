@@ -24,7 +24,7 @@ const Footer = () => {
         <header className="text-2xl underline underline-offset-[1vh] text-white">
           Services
         </header>
-        <a className="link link-hover text-xl">Products</a>
+        <a className="link link-hover text-xl">Packages</a>
         <a className="link link-hover text-xl">Ceramic Coating</a>
         <a className="link link-hover text-xl">Gallery</a>
       </nav>
@@ -37,7 +37,7 @@ const Footer = () => {
         <a className="link link-hover text-xl">Contact</a>
       </nav>
       <nav>
-        <header className="text-2xl underline underline-offset-[1vh] text-white ml-[2rem] sm:ml-2 xs:ml-2">
+        <header className="text-2xl underline underline-offset-[1vh] text-white ml-[2rem] sm:ml-0 xs:ml-0">
           Social
         </header>
         <div className="grid grid-flow-col gap-4">
@@ -45,7 +45,7 @@ const Footer = () => {
             target="_blank"
             href="https://www.instagram.com/riderevival/"
             rel="noreferrer"
-            className="ml-[2.2rem] xs:ml-1 sm:ml-1"
+            className="ml-[2.2rem] xs:ml-2 sm:ml-2"
           >
             <img src={instagram} className="w-8 xs:w-4 sm:w-4" />
           </a>
