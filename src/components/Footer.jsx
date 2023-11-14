@@ -10,8 +10,8 @@ const Footer = () => {
         <div className="flex">
           <div className="flex flex-col mr-[0.8vw]">
             <img src={locationIcon} className="w-[1.5vw]" />
-            <img src={phoneIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-8 sm:pt-8" />
-            <img src={emailIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-8 sm:pt-8" />
+            <img src={phoneIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-6 sm:pt-6" />
+            <img src={emailIcon} className="w-[1.5vw] xs:w-1 sm:w-2 pt-2 xs:pt-6 sm:pt-6" />
           </div>
           <div className="flex flex-col">
             <p className="text-xl">Baltimore, MD</p>
@@ -37,7 +37,7 @@ const Footer = () => {
         <a className="link link-hover text-xl">Contact</a>
       </nav>
       <nav>
-        <header className="text-2xl underline underline-offset-[1vh] text-white ml-[2rem]">
+        <header className="text-2xl underline underline-offset-[1vh] text-white ml-[2rem] sm:ml-4 xs:ml-4">
           Social
         </header>
         <div className="grid grid-flow-col gap-4">
