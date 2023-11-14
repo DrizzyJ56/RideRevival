@@ -8,7 +8,7 @@ const Home = () => {
     <div>
       <Hero />
       <div className="relative flex-col items-center justify-center text-center">
-        <div className="py-[1vh] flex min-w-screen border"></div>
+        <div className="py-[1vh] flex min-w-screen"></div>
         <div className="py-[6vh] flex-col">
           <h3 className="text-7xl font-extrabold">
             About Ride
