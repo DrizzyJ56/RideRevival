@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div>
       <Hero />
-      <div className="relative bg-white flex-col items-center justify-center text-black text-center">
+      <div className="relative flex-col items-center justify-center text-black text-center">
         <div className="py-[1vh] bg-slate-100 flex min-w-screen border"></div>
         <div className="py-[6vh] flex-col">
           <h3 className="text-7xl font-extrabold">
