@@ -33,7 +33,7 @@ const Footer = () => {
           Company
         </header>
         <a className="link link-hover text-xl">Home</a>
-        <a className="link link-hover text-xl">About Us</a>
+        <a className="link link-hover text-xl">About</a>
         <a className="link link-hover text-xl">Contact</a>
       </nav>
       <nav>
@@ -45,7 +45,7 @@ const Footer = () => {
             target="_blank"
             href="https://www.instagram.com/riderevival/"
             rel="noreferrer"
-            className="ml-[2.2rem] xs:ml-2 sm:ml-2"
+            className="ml-[2.2rem] xs:ml-2.5 sm:ml-2.5"
           >
             <img src={instagram} className="w-8 xs:w-4 sm:w-4" />
           </a>

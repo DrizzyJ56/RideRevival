@@ -4,12 +4,12 @@ const About = () => {
   return (
     <div className="min-h-screen bg-black text-slate-300">
       <div className="relative flex flex-col text-center justify-center items-center pt-40">
-        <h3 className="text-8xl font-bold">
+        <h3 className="text-8xl sm:text-4xl xs:text-4xl font-bold">
           Ride
           <span className="underline underline-offset-[2vh]">Revival Fou</span>
           nder
         </h3>
-        <p className="text-4xl ml-24 mr-24 mt-16 mb-8">
+        <p className="text-4xl ml-24 mr-24 mt-16 mb-8 sm:text-2xl xs:text-2xl sm:ml-12 xs:ml-12">
           I launched Ride Revival in 2023 after years of detailing as a hobby.
           My first car was a Mustang that was rough around the edges. I spent
           countless hours trying to perfect that car from the moment it got
